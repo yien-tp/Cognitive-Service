@@ -1,5 +1,5 @@
 # Cognitive-Service
-These are Cognitive Service Examples run at Python2 with Anaconda.
+These are Microsoft Cognitive Service Examples run at Python2 with Anaconda.
 
 Before run these examples, must install OpenCV.
 
